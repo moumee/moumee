@@ -1,6 +1,7 @@
 ## About Me
 
 Undergraduate Researcher at **KHU-CGLAB**  
+
 Currently studying **low-level computer graphics** and **computer vision**.
 
 ## Tech Stack
